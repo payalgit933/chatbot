@@ -13,7 +13,7 @@ A professional, ChatGPT-style chatbot web application built with **React (Vite)*
 
 ---
 ## Demo
-![Video](chatbot)
+![Video](chatbot.gif)
 
 ## Prerequisites
 
