@@ -3,6 +3,8 @@
 A professional, ChatGPT-style chatbot web application built with **React (Vite)** for the frontend and **Flask** for the backend, powered by the Google Gemini API.
 
 ---
+## Tech Stack
+React.js / Flask / Python
 
 ## Features
 
